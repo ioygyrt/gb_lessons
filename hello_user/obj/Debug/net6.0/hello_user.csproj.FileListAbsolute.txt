@@ -1,0 +1,15 @@
+/Users/admin/Desktop/Ян/examples/hello_user/bin/Debug/net6.0/hello_user
+/Users/admin/Desktop/Ян/examples/hello_user/bin/Debug/net6.0/hello_user.deps.json
+/Users/admin/Desktop/Ян/examples/hello_user/bin/Debug/net6.0/hello_user.runtimeconfig.json
+/Users/admin/Desktop/Ян/examples/hello_user/bin/Debug/net6.0/hello_user.dll
+/Users/admin/Desktop/Ян/examples/hello_user/bin/Debug/net6.0/hello_user.pdb
+/Users/admin/Desktop/Ян/examples/hello_user/obj/Debug/net6.0/hello_user.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Ян/examples/hello_user/obj/Debug/net6.0/hello_user.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Ян/examples/hello_user/obj/Debug/net6.0/hello_user.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Ян/examples/hello_user/obj/Debug/net6.0/hello_user.AssemblyInfo.cs
+/Users/admin/Desktop/Ян/examples/hello_user/obj/Debug/net6.0/hello_user.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Ян/examples/hello_user/obj/Debug/net6.0/hello_user.dll
+/Users/admin/Desktop/Ян/examples/hello_user/obj/Debug/net6.0/refint/hello_user.dll
+/Users/admin/Desktop/Ян/examples/hello_user/obj/Debug/net6.0/hello_user.pdb
+/Users/admin/Desktop/Ян/examples/hello_user/obj/Debug/net6.0/hello_user.genruntimeconfig.cache
+/Users/admin/Desktop/Ян/examples/hello_user/obj/Debug/net6.0/ref/hello_user.dll

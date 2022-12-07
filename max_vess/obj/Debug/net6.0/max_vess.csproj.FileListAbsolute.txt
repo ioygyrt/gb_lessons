@@ -1,0 +1,15 @@
+/Users/admin/Desktop/Ян/examples/max_vess/obj/Debug/net6.0/max_vess.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Ян/examples/max_vess/obj/Debug/net6.0/max_vess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Ян/examples/max_vess/obj/Debug/net6.0/max_vess.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Ян/examples/max_vess/obj/Debug/net6.0/max_vess.AssemblyInfo.cs
+/Users/admin/Desktop/Ян/examples/max_vess/obj/Debug/net6.0/max_vess.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Ян/examples/max_vess/bin/Debug/net6.0/max_vess
+/Users/admin/Desktop/Ян/examples/max_vess/bin/Debug/net6.0/max_vess.deps.json
+/Users/admin/Desktop/Ян/examples/max_vess/bin/Debug/net6.0/max_vess.runtimeconfig.json
+/Users/admin/Desktop/Ян/examples/max_vess/bin/Debug/net6.0/max_vess.dll
+/Users/admin/Desktop/Ян/examples/max_vess/bin/Debug/net6.0/max_vess.pdb
+/Users/admin/Desktop/Ян/examples/max_vess/obj/Debug/net6.0/max_vess.dll
+/Users/admin/Desktop/Ян/examples/max_vess/obj/Debug/net6.0/refint/max_vess.dll
+/Users/admin/Desktop/Ян/examples/max_vess/obj/Debug/net6.0/max_vess.pdb
+/Users/admin/Desktop/Ян/examples/max_vess/obj/Debug/net6.0/max_vess.genruntimeconfig.cache
+/Users/admin/Desktop/Ян/examples/max_vess/obj/Debug/net6.0/ref/max_vess.dll
